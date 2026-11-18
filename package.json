@@ -1,0 +1,15 @@
+{
+  "name": "fondue-to-flexitarian",
+  "version": "1.0.0",
+  "private": true,
+  "description": "From Fondue to Flexitarian: an interactive data story about how Swiss eating habits are changing.",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "npx --yes serve@14 . -l 3000",
+    "start": "npx --yes serve@14 . -l 3000",
+    "build": "echo \"Static site: no build step needed.\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
